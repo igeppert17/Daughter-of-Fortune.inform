@@ -4,20 +4,35 @@ Daughter-of-Fortune.inform
 Eliza needs to cut off Jack's fingers in this game. Yay.
 
 1. Basic Story Outline
+
 Who is the player?
-	The player is Eliza from Daughter of Fortune.
+
+The player is Eliza from Daughter of Fortune.
+
 Where is the player?
-	The player's in a barn.
+
+The player's in a barn.
+
 What does the player want/what is their ultimate goal?
-	The player needs to cut off the fingers of a man.
+
+The player needs to cut off the fingers of a man.
+
 What are the obstacles that must be overcome to achieve the ultimate goal?
-	Needs to gather materials, cut off the fingers, then sew the wounds.
+
+Needs to gather materials, cut off the fingers, then sew the wounds.
+
 Describe the obstacles and what the player needs to do to overcome them?
-	They have to figure out where to get the things they need to accomplish the task and as the right question for a key to open some things.
+
+They have to figure out where to get the things they need to accomplish the task and as the right question for a key to open some things.
+
 How does the IF end? What action triggers the end of the story?
-	Stitching the wound triggers the end.
+
+Stitching the wound triggers the end.
+
 What other ending are there?
-	If the player steals gold or becomes drunk, the game ends as well.
+
+If the player steals gold or becomes drunk, the game ends as well.
+
 
 2. Responses to the following questions
 Other than to complete an assignment, what did you want to accomplish by creating this IF?
