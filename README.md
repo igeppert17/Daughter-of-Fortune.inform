@@ -3,7 +3,9 @@ Daughter-of-Fortune.inform
 
 Eliza needs to cut off Jack's fingers in this game. Yay.
 
-1. Basic Story Outline
+-
+
+Basic Story Outline
 
 Who is the player?
 
@@ -33,7 +35,9 @@ What other ending are there?
 
 If the player steals gold or becomes drunk, the game ends as well.
 
-2. Responses to the following questions
+-
+
+Responses to the following questions
 
 Other than to complete an assignment, what did you want to accomplish by creating this IF?
 
@@ -55,7 +59,9 @@ Discuss the gameplay mechanics in your IF and how they improve the user's experi
 
 Can make a table of replies now and unlock something with multiple things.
 
-3. Beta Testing
+-
+
+Beta Testing
 
 Whose IF did you test? What valuable feedback were you able to give them?
 
@@ -65,7 +71,9 @@ Who beta tested your IF? How did their feedback help you with your own IF?
 
 Kelsey tested mine, showed where the game was getting confused with some names of things.
 
-4. Inform
+-
+
+Inform
 
 What do you like about programming with Inform?
 
