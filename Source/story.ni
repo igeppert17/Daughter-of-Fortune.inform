@@ -420,6 +420,8 @@ Instead of stitching up jack's wounds:
 
 Instead of stitching up something:
 	say "You just need to stitch jack's wounds."
+
+[some of the actions you've gotta be really specific about the wording because inform gets picky about some things, try it a couple time, you might get it, i might fix it, we'll both see what happens]
 	
 [if you need it i guess
 shortest route kinda
