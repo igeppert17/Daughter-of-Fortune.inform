@@ -1,5 +1,5 @@
 "Daughter of Fortune: Cut off Jack's Finger" by Izzy
-[last edited 10/17 15:00]
+[last edited 10/22]
 The release number is 1.
 The story creation year is 2014.
 The story headline is "A Daughter of Fortune: Cut of Jack's Fingers".
